@@ -55,8 +55,10 @@ Built using **Python**, **MediaPipe**, **OpenCV**, **pycaw**, and **pyautogui**.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/HandGestureControl.git
-cd HandGestureControl
+git clone https://github.com/iam-neo/-Ai-mouse-controller.git
+```
+```
+cd Ai mouse controller
 ```
 ### 2. Install Dependencies
 ```python
@@ -101,16 +103,6 @@ Use the **Index + Middle Fingers** to scroll up or down. Position the two finger
 - **Right Click:** Bring your pinky close to your palm to simulate a right mouse click.
 
 ---
-# HandGestureControl
-
-This project provides a simple hand gesture control system using MediaPipe for hand tracking. It utilizes a webcam to detect hand landmarks and perform basic hand gesture recognition.
-
-## Project Structure
-
-- **HandTrackingModule.py**: Contains the hand tracking logic using the MediaPipe library.
-- **main.py**: The main application file where hand tracking is performed and displayed in real-time.
-- **README.md**: Documentation for the project.
-
 ## Requirements
 
 1. Install Python 3.x
