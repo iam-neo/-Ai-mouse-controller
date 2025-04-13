@@ -7,12 +7,13 @@ A real-time Python project that uses **OpenCV**, **MediaPipe**, **PyAutoGUI**, a
 - 🔃 Scroll up/down  
 - 🪞 **Mirrored camera view** for a natural feel
 
+Built using **Python**, **MediaPipe**, **OpenCV**, **pycaw**, and **pyautogui**.
 ---
 
 ## 📸 Demo
 
 ![Demo GIF or Screenshot Here](#)  
-> *(Add your own GIF/image showing hand gestures in action)*
+> *(Adding GIF soon)*
 
 ---
 
@@ -66,6 +67,7 @@ pip install opencv-python mediapipe numpy pyautogui comtypes pycaw
 ```python
 python main.py
 ```
+Press Q to quit the application.
 ## 🎮 Controls & Gestures
 
 Use the following gestures to control various system functions. The camera view is mirrored for a natural, intuitive experience!
@@ -99,4 +101,59 @@ Use the **Index + Middle Fingers** to scroll up or down. Position the two finger
 - **Right Click:** Bring your pinky close to your palm to simulate a right mouse click.
 
 ---
+# HandGestureControl
+
+This project provides a simple hand gesture control system using MediaPipe for hand tracking. It utilizes a webcam to detect hand landmarks and perform basic hand gesture recognition.
+
+## Project Structure
+
+- **HandTrackingModule.py**: Contains the hand tracking logic using the MediaPipe library.
+- **main.py**: The main application file where hand tracking is performed and displayed in real-time.
+- **README.md**: Documentation for the project.
+
+## Requirements
+
+1. Install Python 3.x
+2. Install the required libraries:
+   ```bash
+   pip install opencv-python mediapipe
+   ```
+
+## 🛠️ Customization
+
+- To adjust **volume sensitivity**, tweak `hmin` and `hmax` in `main.py`.
+
+- To change **detection sensitivity**, adjust `detectionCon` and `trackCon` values when initializing the `HandDetector`.
+
+## ❗ Notes
+
+- Ensure **good lighting** for accurate hand tracking.
+- May not work properly on **low-res or laggy webcams**.
+- Smooth cursor motion is achieved via basic **interpolation**. You can enhance this further with filters.
+
+## 🤝 Contributing
+
+Pull requests are welcome! If you’d like to:
+- Improve performance
+- Add new gesture features
+- Refactor the UI or logic
+
+Feel free to [**fork the repo**](https://github.com/iam-neo/-Ai-mouse-controller/fork) and contribute!
+
+
+
+## 🧑‍💻 Author
+
+Made with ❤️ by [**Neo**](https://github.com/iam-neo)
+
+📧 Feel free to contribute, suggest improvements, or fork the project!
+
+Let me know if you'd like to add:
+
+- Contribution guidelines
+- License section
+- Contact or social links
+- GitHub stats/badges
+
+Happy coding! 🚀
 
