@@ -15,7 +15,7 @@ Built using **Python**, **MediaPipe**, **OpenCV**, **pycaw**, and **pyautogui**.
 3. [Customization](#customization)
 4. [Notes](#notes)
 5. [Contributing](#contributing)
-6. [Author](##Author)
+6. [Author](#author)
 7. [License](#license)
 
 ---
@@ -144,7 +144,7 @@ Feel free to [**fork the repo**](https://github.com/iam-neo/-Ai-mouse-controller
 
 
 
-## 🧑‍💻 Author
+## Author 🧑‍💻
 
 Made with ❤️ by [**Neo**](https://github.com/iam-neo)
 
