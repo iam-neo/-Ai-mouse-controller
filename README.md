@@ -8,6 +8,16 @@ A real-time Python project that uses **OpenCV**, **MediaPipe**, **PyAutoGUI**, a
 - 🪞 **Mirrored camera view** for a natural feel
 
 Built using **Python**, **MediaPipe**, **OpenCV**, **pycaw**, and **pyautogui**.
+## 📚 Table of Contents
+
+1. [Project Overview](#project-overview)
+2. [Getting Started](#getting-started)
+3. [Customization](#customization)
+4. [Notes](#notes)
+5. [Contributing](#contributing)
+6. [Author](##Author)
+7. [License](#license)
+
 ---
 
 ## 📸 Demo
