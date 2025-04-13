@@ -10,15 +10,25 @@ A real-time Python project that uses **OpenCV**, **MediaPipe**, **PyAutoGUI**, a
 Built using **Python**, **MediaPipe**, **OpenCV**, **pycaw**, and **pyautogui**.
 ## 📚 Table of Contents
 
-1. [Project Overview](#project-overview)
-2. [Getting Started](#getting-started)
-3. [Customization](#customization)
-4. [Notes](#notes)
-5. [Contributing](#contributing)
-6. [Author](#author)
-7. [License](#license)
-
----
+1. [Introduction](#hand-gesture-control-system)
+2. [📸 Demo](#demo)
+3. [🔧 Features](#features)
+4. [🧠 Tech Stack](#tech-stack)
+5. [📁 Project Structure](#project-structure)
+6. [🚀 How to Run](#how-to-run)
+   - [Clone the repository](#1-clone-the-repository)
+   - [Install Dependencies](#2-install-dependencies)
+   - [Run the App](#3-run-the-app)
+7. [🎮 Controls & Gestures](#controls--gestures)
+   - [Cursor Mode](#cursor-mode)
+   - [Volume Control](#volume-control)
+   - [Scroll](#scroll)
+   - [Mouse Clicks](#mouse-clicks)
+8. [Requirements](#requirements)
+9. [🛠️ Customization](#customization)
+10. [❗ Notes](#notes)
+11. [🤝 Contributing](#contributing)
+12. [Author 🧑‍💻](#author)
 
 ## 📸 Demo
 
