@@ -100,4 +100,3 @@ Use the **Index + Middle Fingers** to scroll up or down. Position the two finger
 
 ---
 
-Let me know if you'd like to add more details or modify any gestures!
